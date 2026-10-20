@@ -13,8 +13,3 @@ Development of physical products, software and infrastructure for commercial and
 
 ### [GellOS](https://gellos.uk)
 A home operating environment developed by Protct Group, connecting computing, devices, services and entertainment.
-
-## Links
-
-- [Protct](https://protct.uk)
-- [GellOS](https://gellos.uk)
