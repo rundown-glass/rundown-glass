@@ -1,16 +1,22 @@
-## Hi there 👋
+# Billy Brumwell
 
-<!--
-**rundown-glass/rundown-glass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Based in Yorkshire, UK.
 
-Here are some ideas to get you started:
+Working across software development, systems architecture, infrastructure and product engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+### [Protct Group](https://protct.uk)
+Development of physical products, software and infrastructure for commercial and consumer markets.
+
+**Protct** — Building protection products, systems and services.
+
+**ProtctOS** — An integrated operating platform for business operations, applications, devices and infrastructure.
+
+### [GellOS](https://gellos.uk)
+A home operating environment developed by Protct Group, connecting computing, devices, services and entertainment.
+
+## Links
+
+- [Protct](https://protct.uk)
+- [GellOS](https://gellos.uk)
