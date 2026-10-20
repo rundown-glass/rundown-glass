@@ -1,7 +1,3 @@
-Based in Yorkshire, UK.
-
-Working across software development, systems architecture, infrastructure and product engineering.
-
 ## Projects
 
 ### [Protct Group](https://protct.uk)
